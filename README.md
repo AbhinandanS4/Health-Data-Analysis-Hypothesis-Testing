@@ -6,7 +6,7 @@ This repository contains files related to a data analysis project focusing on ca
 Here's a brief explanation of each file in this repository:
 
 **Dashboard.png:**
-This image file is a screenshot or an export of a dashboard. It visualizes the insights and findings derived from the data analysis, created using a tool like Power BI or Tableau.
+This image file is an export of a dashboard. It visualizes the insights and findings derived from the data analysis, created using a tool like Power BI or Tableau.
 
 **README.md:**
 This file, which you are currently reading, serves as the main documentation for this repository. It provides an overview of the project, explains the purpose of each file, and offers guidance on how to navigate and understand the contents.
